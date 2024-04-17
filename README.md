@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 To run 
 
--Inside your terminal, type ** npm create vite@latest ** and press enter.
+-Inside your terminal, type **npm create vite@latest** and press enter.
 - Select React and javaScript
 - npm install
 - npm install react-router-dom
