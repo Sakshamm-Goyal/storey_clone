@@ -11,7 +11,7 @@ const Home = () => {
             <Header />
             <ShopBy data={"CATEGORY"} title={"SHOP BY"} />
             <ShopBy data={"BRANDS"} title={"SHOP BY"} />
-            <ShopBy data={"TRENDING"} title={"SHOP BY"} />
+            <ShopBy data={"BRANDS"} title={"SHOP BY"} />
             <ShopBy data={"GUIDES"} title={"CONSTRUCTION"} />
             <Why />
             <Banner />
