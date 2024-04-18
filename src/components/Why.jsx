@@ -8,7 +8,7 @@ const Why = () => {
             <div className='flex flex-col justify-center items-center'>
 
                 <h1>Why</h1>
-                <div className='text-xl font-semibold'>BUILD<span className='text-[#c15d27]'>STOREY</span></div>
+                <div className='text-xl font-semibold'>BUILD<span className='text-[#0Fa4Af]'>STOREY</span></div>
             </div>
             <div className='flex justify-between mx-24 mt-10'>
                 {whyData?.map((data, index) => (
