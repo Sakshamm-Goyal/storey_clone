@@ -21,7 +21,7 @@ const Header = () => {
                 <img className='px-4 py-3 w-36 h-28' src='/log.svg' />
                 <div className=' flex items-center gap-28 rounded-l-md' style={{ marginLeft: '9px' }}>
                     <div className='relative flex'>
-                        <div className='py-3 px-26 text-white bg-[#0Fa4Af] rounded-l-md'>
+                        <div className='py-3 px-29 text-white bg-[#0Fa4Af] rounded-l-md'>
                             <div className='text-sm'>All Categories <i className="ri-arrow-down-s-fill"></i></div>
                         </div>
                         <div className='bg-[#f5f5f6]'>
