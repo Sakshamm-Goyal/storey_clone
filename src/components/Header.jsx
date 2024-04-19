@@ -8,7 +8,7 @@ const Header = () => {
         <div>
             <div className='flex justify-between items-center py-1 px-32' style={{ backgroundImage: 'url(/bgupp.png)' }} >
                 
-                <div className='animated text-white text-xs'>
+                <div className='animated text-white text-sm'>
                 <AnimatedText/>
                     </div>
                 <div className='flex items-center gap-2 divide-x divide-white'>
