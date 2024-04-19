@@ -30,17 +30,17 @@ const Footer = () => {
                 <div className='w-72 text-sm'>
                     <h1 className='text-lg font-semibold opacity-80'>Contact Us</h1>
                     <div className='flex flex-col gap-4 mt-4'>
-                        <div className='pb-1 text-sm font-light border-b border-[#0Fa4Af] w-fit  hover:text-[#0Fa4Af] hover:border-b   hover:border-[#0Fa4Af]'><i className="ri-phone-fill text-[#0Fa4Af]"></i>   +91 9057600700</div>
-                        <div className='pb-1 text-sm font-light border-b border-[#0Fa4Af] w-fit  hover:text-[#0Fa4Af] hover:border-b   hover:border-[#0Fa4Af]'><i className="ri-mail-fill text-[#0Fa4Af]"></i>  info@buildstorey.com</div>
+                        <div className='pb-1 text-sm font-light border-b border-[#0Fa4Af] w-fit  hover:text-[#0Fa4Af] hover:border-b   hover:border-[#0Fa4Af]'><i className="ri-phone-fill text-[#0Fa4Af]"></i>   +91 9034865426</div>
+                        <div className='pb-1 text-sm font-light border-b border-[#0Fa4Af] w-fit  hover:text-[#0Fa4Af] hover:border-b   hover:border-[#0Fa4Af]'><i className="ri-mail-fill text-[#0Fa4Af]"></i>  info@mycompany.com</div>
                         <div><i className="ri-building-4-line text-[#0Fa4Af]"></i>   Straybox Private Limited</div>
-                        <div><i className="ri-id-card-fill text-[#0Fa4Af]"></i>  T-15, T-16, Third Floor, Felicity Tower, Sahakar Marg, Lal Kothi, Jaipur, Rajasthan 302005</div>
-                        <div><i className="ri-mail-fill text-[#0Fa4Af]"></i>   CIN: U26990RJ2022PTC080120</div>
+                        <div><i className="ri-id-card-fill text-[#0Fa4Af]"></i>  A-1, T-1, First Floor, Health Tower, Rohini, Sector-6, New Delhi 110011</div>
+                        <div><i className="ri-mail-fill text-[#0Fa4Af]"></i>   CIN: U23456J44504332J798JH68</div>
                     </div>
                 </div>
             </div >
             <hr />
             <div className='flex justify-between px-24 py-4'>
-                <div className='text-xs text-gray-600'>© 2023 BuildStorey. All Rights Reserved</div>
+                <div className='text-xs text-gray-600'>© 2024 MyCompany. All Rights Reserved</div>
                 <div className='flex items-center gap-3 ' >
                     <p className='text-xs text-gray-600'>Powered by</p>
                     <img src="/log.svg" width={50} />
