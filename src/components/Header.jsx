@@ -34,7 +34,7 @@ const Header = () => {
         <i className="ri-map-pin-fill text-2xl text-[#c15d27]"></i>
         <div className='leading-2 text-base cursor-pointer'>
             <h1>Location</h1>
-            <h3 className='font-bold text-sm'>Jaipur, Rajasthan, 302020</h3>
+            <h3 className='font-semibold text-sm'>Jaipur, Rajasthan, 302020</h3>
         </div>
     </div>
 </div>
@@ -47,7 +47,7 @@ const Header = () => {
                     </div>
                 </div>
             </div>
-            <div className='flex justify-between items-center px-5 shadow-md py-2 font-normal text-sm'>
+            <div className='flex justify-between items-center px-3 shadow-md py-2 font-normal text-sm'>
                 <div className='py-2.5 px-2 border-b-2 border-white hover:text-[#c15d27] hover:border-b-2  hover:border-[#c15d27]'> <Link to="/"> Home</Link></div>
                 <div className='py-2.5 px-2 border-b-2 border-white hover:text-[#c15d27] hover:border-b-2  hover:border-[#c15d27]'><Link to="/new_arrival">New Arrivals</Link></div>
                 <div className='py-2.5 px-2 border-b-2 border-white hover:text-[#c15d27] hover:border-b-2  hover:border-[#c15d27]'><Link to="/trending">Trending</Link></div>
