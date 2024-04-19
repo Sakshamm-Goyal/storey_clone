@@ -4,12 +4,13 @@
 }
 
 .text-container{
-    padding-left: 400px;
+    user-select: none;
+    padding-left: 500px;
     display: flex;
     text-align: center;
     justify-content: center;
     font-family: 'acumin-pro', sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 34px;
 }
 @media only screen and (max-width: 800px) {
