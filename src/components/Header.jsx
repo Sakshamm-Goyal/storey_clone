@@ -19,13 +19,13 @@ const Header = () => {
             </div>
             <div className='flex items-center shadow-md'>
                 <img className='px-4 py-3 w-36 h-28' src='/log.svg' />
-                <div className=' flex items-center gap-10 pl-22 rounded-l-md'>
+                <div className=' flex items-center gap-13 pl-22 rounded-l-md'>
                     <div className='relative flex'>
-                        <div className='py-3 px-16 text-white bg-[#0Fa4Af] rounded-l-md'>
+                        <div className='py-3 px-15 text-white bg-[#0Fa4Af] rounded-l-md'>
                             <div className='text-sm'>All Categories <i className="ri-arrow-down-s-fill"></i></div>
                         </div>
                         <div className='bg-[#f5f5f6]'>
-                            <input type='text' className='h-full focus:outline-none px-5 w-[350px] bg-inherit placeholder:text-sm placeholder:text-gray-500' placeholder='Search For products, Brand & Categories' />
+                            <input type='text' className='h-full focus:outline-none px-6 w-[350px] bg-inherit placeholder:text-sm placeholder:text-gray-500' placeholder='Search For products, Brand & Categories' />
                             <i className="ri-search-line px-4 cursor-pointer font-semibold"></i>
                         </div>
                     </div>
