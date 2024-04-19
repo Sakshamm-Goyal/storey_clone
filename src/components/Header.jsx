@@ -19,9 +19,9 @@ const Header = () => {
             </div>
             <div className='flex items-center shadow-md'>
                 <img className='px-4 py-3 w-36 h-28' src='/log.svg' />
-                <div className=' flex items-center gap-28 pl-18 rounded-l-md' style={{ marginLeft: '14px' }}>
+                <div className=' flex items-center gap-28 pl-18 rounded-l-md' style={{ marginLeft: '10px' }}>
                     <div className='relative flex'>
-                        <div className='py-3 px-36 text-white bg-[#0Fa4Af] rounded-l-md'>
+                        <div className='py-3 px-32 text-white bg-[#0Fa4Af] rounded-l-md'>
                             <div className='text-sm'>All Categories <i className="ri-arrow-down-s-fill"></i></div>
                         </div>
                         <div className='bg-[#f5f5f6]'>
