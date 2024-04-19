@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './animate.css';
-const messages = ["Think construction, Think BuildStorey", "All that construction needs", "Let's build storey together"];
+const messages = ["Think construction, Think MyCompanyName", "All that construction needs", "Let's build building together"];
 
 function AnimatedText() {
   const [current, setCurrent] = useState(0);
