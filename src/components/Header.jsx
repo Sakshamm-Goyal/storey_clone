@@ -19,7 +19,7 @@ const Header = () => {
             </div>
             <div className='flex items-center shadow-md'>
                 <img className='px-4 py-3 w-36 h-28' src='/log.svg' />
-                <div className=' flex items-center gap-16 pl-24 rounded-l-md'>
+                <div className=' flex items-center gap-10 pl-22 rounded-l-md'>
                     <div className='relative flex'>
                         <div className='py-3 px-16 text-white bg-[#0Fa4Af] rounded-l-md'>
                             <div className='text-sm'>All Categories <i className="ri-arrow-down-s-fill"></i></div>
